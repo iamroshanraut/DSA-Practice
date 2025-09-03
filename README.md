@@ -1,26 +1,38 @@
 # 🧑‍💻 DSA-Practice
 
-This repository contains my Data Structures & Algorithms (DSA) practice solutions in **JavaScript**.  
+This repository contains my **Data Structures & Algorithms (DSA)** practice solutions in **JavaScript**.  
 Problems are synced directly from **LeetCode**.
 
-## 📂 Structure
+---
 
+## 🔥 Tech Stack & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)  
+![LeetCode](https://img.shields.io/badge/Problems-LeetCode-orange)  
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
 
 ---
 
 ## 🚀 Progress Tracker
-- ✅ 26. Remove Duplicates from Sorted Array
-- 🔲 1. Two Sum
-- 🔲 9. Palindrome Number  
+
+| Problem No. | Problem Name                           | Status   |
+|-------------|----------------------------------------|----------|
+| 26          | Remove Duplicates from Sorted Array     | ✅ Done  |
+| 1           | Two Sum                                | 🔲 Todo  |
+| 9           | Palindrome Number                      | 🔲 Todo  |
+
 *(Will keep updating as I solve more problems!)*
 
 ---
 
-## 🛠️ Languages Used
-- JavaScript (ES6+)
+## 📊 My Coding Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rautroshan601?theme=dark&font=Baloo%202&ext=contest)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamroshanraut&theme=dark&border_radius=6)  
 
 ---
 
 ## 🔗 Profiles
-- [My GitHub](https://github.com/iamroshanraut)  
-- [My LeetCode](https://leetcode.com/)  
+- [🌐 GitHub](https://github.com/iamroshanraut)  
+- [💡 LeetCode](https://leetcode.com/)  
+****
