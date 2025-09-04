@@ -17,7 +17,7 @@ Problems are synced directly from **LeetCode**.
 | Problem No. | Problem Name                           | Status   |
 |-------------|----------------------------------------|----------|
 | 26          | Remove Duplicates from Sorted Array     | ✅ Done  |
-| 1           | Two Sum                                | 🔲 Todo  |
+| 27          | Remove Element                         | ✅ Done  |       
 | 9           | Palindrome Number                      | 🔲 Todo  |
 
 *(Will keep updating as I solve more problems!)*
