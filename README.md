@@ -18,7 +18,7 @@ Problems are synced directly from **LeetCode**.
 |-------------|----------------------------------------|----------|
 | 26          | Remove Duplicates from Sorted Array     | ✅ Done  |
 | 27          | Remove Element                         | ✅ Done  |       
-| 9           | Palindrome Number                      | 🔲 Todo  |
+| 344           | Reverse String                       | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
