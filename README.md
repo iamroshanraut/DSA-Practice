@@ -19,6 +19,7 @@ Problems are synced directly from **LeetCode**.
 | 26          | Remove Duplicates from Sorted Array     | ✅ Done  |
 | 27          | Remove Element                         | ✅ Done  |       
 | 344           | Reverse String                       | ✅ Done  |
+| 121           | Best Time to Buy & Sell Stock        | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
