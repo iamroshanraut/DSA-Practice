@@ -22,6 +22,7 @@ Problems are synced directly from **LeetCode**.
 | 121           | Best Time to Buy & Sell Stock        | ✅ Done  |
 | 88           | Merge Sorted Array                    | ✅ Done  |
 | 283           | Move Zeros                           | ✅ Done  |
+| 485           | Max Consecutive Ones                 | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
