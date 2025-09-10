@@ -23,6 +23,7 @@ Problems are synced directly from **LeetCode**.
 | 88           | Merge Sorted Array                    | ✅ Done  |
 | 283           | Move Zeros                           | ✅ Done  |
 | 485           | Max Consecutive Ones                 | ✅ Done  |
+| 268           | Missing Number                       | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
