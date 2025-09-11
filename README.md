@@ -24,6 +24,7 @@ Problems are synced directly from **LeetCode**.
 | 283           | Move Zeros                           | ✅ Done  |
 | 485           | Max Consecutive Ones                 | ✅ Done  |
 | 268           | Missing Number                       | ✅ Done  |
+| 136           | Single Number                       | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
