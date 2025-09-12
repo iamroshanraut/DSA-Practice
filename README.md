@@ -25,6 +25,7 @@ Problems are synced directly from **LeetCode**.
 | 485           | Max Consecutive Ones                 | ✅ Done  |
 | 268           | Missing Number                       | ✅ Done  |
 | 136           | Single Number                       | ✅ Done  |
+| 1             | two sum                             | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
