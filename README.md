@@ -27,6 +27,7 @@ Problems are synced directly from **LeetCode**.
 | 136           | Single Number                       | ✅ Done  |
 | 1             | two sum                             | ✅ Done  |     
 | 9            | Palindrome number                    | ✅ Done  |
+| 35            | Search Insert Position               | ✅ Done  |
 
 *(Will keep updating as I solve more problems!)*
 
